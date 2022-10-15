@@ -1,1 +1,3 @@
 Hola estes es el primer primer archivo en git xd.
+
+cambios para la nueva actualizacion de mi repositorio en git.
